@@ -24,6 +24,7 @@ Lighthouse scores offer a valuable comparison tool, but they don’t directly tr
 For a true picture, prioritize real user data. Tools like CrUX or Vercel Speed Insights provide user-based performance metrics, ensuring your online store delivers a seamless experience for your customers.
 
 
+
 ## 🤝 Contribution
 
 Contributions are always welcome! To contribute, please follow these steps:
