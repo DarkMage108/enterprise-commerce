@@ -16,8 +16,6 @@ Each starter is a combination of commerce platform and search engine. While each
 
 In Enterprise Commerce high-level architecture, Search Engine serves as the primary source for all product data and potentially other types of data in the future. The system is designed to easily integrate AI personalization tools without needing to modify any frontend code. While we are integrated with Shopify by default, we are not tightly bound to it, you can use any commerce platform and adapt data to our format.
 
-<img width="1841" alt="architecture diagram" src="https://github.com/DarkMage108/enterprise-commerce/assets/28964599/c5d3a0b3-6c3e-47df-9c45-4ecb583f5a64">
-
 ## Performance
 
 At Blazity, we prioritize speed. Enterprise Commerce is meticulously crafted to deliver top-notch performance for your online store.
@@ -25,7 +23,6 @@ At Blazity, we prioritize speed. Enterprise Commerce is meticulously crafted to 
 Lighthouse scores offer a valuable comparison tool, but they don’t directly translate to SEO or user experience (UX).
 For a true picture, prioritize real user data. Tools like CrUX or Vercel Speed Insights provide user-based performance metrics, ensuring your online store delivers a seamless experience for your customers.
 
-![performance diagram](https://github.com/DarkMage108/enterprise-commerce/assets/28964599/8aba9b68-38d6-41c9-81a8-234003e7e1b0)
 
 ## 🤝 Contribution
 
